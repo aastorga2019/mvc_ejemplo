@@ -1,2 +1,2 @@
 # mvc_ejemplo
-Probando patron desarrollo en Java  MVC
+Probando patrones de desarrollo en Java
